@@ -1,0 +1,23 @@
+/* =======================Modificaciones generales===========================*/
+/* Cuando la pantalla es de ancho 300px y ancho 369px*/
+/* @media screen and (min-width: 300px) and (max-width: 369px) { */
+/* =========================Items==============================================*/
+/* ------------------------Items create----------------------------------------*/
+/* ----------------------------------------------------------------------------*/
+/* } */
+@media screen and (min-width: 300px) and (max-width:480px) {
+
+.search {
+   margin-left: -190px !important;
+
+}
+.logo {
+  margin-left: -30px;
+  margin-top: 9px;
+  width: 120px;
+  height: 100px;
+}
+  
+
+}
+
